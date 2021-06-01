@@ -1,0 +1,1 @@
+# This is a simple practise when I learn JavaScript in Codecademy
